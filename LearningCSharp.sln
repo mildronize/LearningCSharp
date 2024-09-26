@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondLargestDigitInAString", "SecondLargestDigitInAString\SecondLargestDigitInAString.csproj", "{5FDA0B23-ED96-442B-A0A6-B2C64D12BA13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCalendarI", "MyCalendarI\MyCalendarI.csproj", "{2AD06BBB-5BF1-4828-8BF3-A93DF459A8BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,5 +39,9 @@ Global
 		{5FDA0B23-ED96-442B-A0A6-B2C64D12BA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FDA0B23-ED96-442B-A0A6-B2C64D12BA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FDA0B23-ED96-442B-A0A6-B2C64D12BA13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AD06BBB-5BF1-4828-8BF3-A93DF459A8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD06BBB-5BF1-4828-8BF3-A93DF459A8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD06BBB-5BF1-4828-8BF3-A93DF459A8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD06BBB-5BF1-4828-8BF3-A93DF459A8BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
