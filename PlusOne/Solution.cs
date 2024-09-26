@@ -23,18 +23,13 @@ public class Solution {
         digits[^1] += 1;
         for (var i = digits.Length - 1; i >= 0; i--)
         {
-            if (digits[i] == 10)
+            if (digits[i] != 10) continue;
+            digits[i] = 0;
+            if (i == 0)
             {
-                digits[i] = 0;
-                if (i == 0)
-                {
-                    return AppendFirstElement(digits, 1);
-                }
-                else
-                {
-                    digits[i - 1] += 1;
-                }
+                return AppendFirstElement(digits, 1);
             }
+            digits[i - 1] += 1;
         }
 
         return digits;
