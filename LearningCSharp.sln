@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "Palindr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{7B5FA27D-5CA6-4F2E-9CF4-6B8DF1480B0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{F61B2CFD-A86F-41C7-8790-9E8CC8FEBBFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,5 +27,9 @@ Global
 		{7B5FA27D-5CA6-4F2E-9CF4-6B8DF1480B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B5FA27D-5CA6-4F2E-9CF4-6B8DF1480B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B5FA27D-5CA6-4F2E-9CF4-6B8DF1480B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F61B2CFD-A86F-41C7-8790-9E8CC8FEBBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61B2CFD-A86F-41C7-8790-9E8CC8FEBBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61B2CFD-A86F-41C7-8790-9E8CC8FEBBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61B2CFD-A86F-41C7-8790-9E8CC8FEBBFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
